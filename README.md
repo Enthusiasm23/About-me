@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lbfeng
 - 👀 I’m interested in Python, R, shell
 - 🌱 I’m currently learning biological information analysis, shell code writing and Python
-- 💞️ I’m looking for interesting project trainers
+- 💞️ I’m looking for interesting projects to improve myself
 - 📫 How to reach me @ Enthusiasm23
 
 <!---
