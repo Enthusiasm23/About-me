@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Libao feng</h1>
+<h1 align="center">Hi 👋, I'm LiBao Feng</h1>
 
-- 👀 I’m interested in Python, R, shell
-- 🌱 I’m currently learning biological information analysis, shell code writing and Python
-- 💞️ I’m looking for interesting projects to improve myself
-- 📫 Connect with me [@Enthusiasm23](https://github.com/Enthusiasm23)
+- 👀 I'm interested in Python, R, and Shell scripting.
+- 🌱 I’m studying bioinformatics analysis, data analysis and visualization, as well as automated scripts.
+- 💞️ I'm looking for interesting projects to further enhance my skills.
+- 📫 Connect with me at lbfeng23@gmail.com
 
 <!---
 Enthusiasm23/Enthusiasm23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
